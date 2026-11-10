@@ -1,5 +1,13 @@
 # Changelog
 
+## [14.5.3](https://github.com/paraspell/xcm-tools/compare/sdk-core-v14.5.2...sdk-core-v14.5.3) (2026-11-10)
+
+
+### Bug Fixes
+
+* **sdk-core:** Fix error swallowed in min transferable amount function ⚙️ ([de5a43d](https://github.com/paraspell/xcm-tools/commit/de5a43d494be9db54b73a59e0a5cc10dd6149e77))
+* **sdk-dedot:** Fix dry run error resolver 🛠️ ([587caa5](https://github.com/paraspell/xcm-tools/commit/587caa516ab5d6fbdf8f9b2ed0bf6525d4cdf243))
+
 ## [14.5.2](https://github.com/paraspell/xcm-tools/compare/sdk-core-v14.5.1...sdk-core-v14.5.2) (2026-11-05)
 
 
